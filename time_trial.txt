@@ -1,0 +1,23 @@
+R: 10000
+S: 50
+Trial 1
+=======
+Column Sort:
+CPU time to sort: 0.102 seconds
+Heap Sort:
+CPU time to sort: 0.021 seconds
+
+Trial 2
+=======
+Column Sort:
+CPU time to sort: 0.162 seconds
+Heap Sort:
+CPU time to sort: 0.022 seconds
+
+Trial 3
+=======
+Column Sort:
+CPU time to sort: 0.238 seconds
+Heap Sort:
+CPU time to sort: 0.023 seconds
+~/Documents/CPP/Program3 %
